@@ -1,0 +1,20 @@
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>JNG - Boutique de Maillots</title>
+</head>
+<body style="font-family: Arial; text-align: center; padding: 50px;">
+  <h1>Bienvenue chez JNG</h1>
+  <p>Votre boutique en ligne de maillots de qualité.</p>
+  <h2>Nos produits</h2>
+  <ul>
+    <li>Maillots de football</li>
+    <li>Maillots de basket</li>
+    <li>Maillots personnalisés</li>
+  </ul>
+  <p>Contact : jngboutique@email.com</p>
+</body>
+</html>
+```
