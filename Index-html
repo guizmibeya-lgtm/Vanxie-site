@@ -1,1 +1,17 @@
-Ajout du texte de bienvenue et des informations sur la boutique JNG*
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>JNG Boutique</title>
+</head>
+<body>
+  <h1>🔥 Bienvenue chez JNG – Votre boutique en ligne ! 🔥</h1>
+  <p>Maillots, chaussures, et accessoires stylés à portée de clic.</p>
+  <p>Livraison rapide partout au Congo.</p>
+  <p>Visitez-nous ici : <a href="https://guizmibeya-lgtm.github.io/Vanxie-site/">JNG Boutique</a></p>
+</body>
+</html>
+```
+
+
